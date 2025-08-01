@@ -1,0 +1,5 @@
+{
+  "name": "IOI Results Unfreeze Simulator",
+  "description": "A web application to simulate the dramatic reveal of final standings for an IOI-style programming contest. Paste your contest data and watch the score updates unfold one by one.",
+  "requestFramePermissions": []
+}
